@@ -19,7 +19,9 @@ File Structure:
   
   [vehicles.csv](data/vehicles.csv)
 
-  The notebook file associated with this assignment can be found here **==>>** [VehiclePurchasePrice.ipynb](VehiclePurchasePrice.ipynb)
+  **./images** - Directory containing image files
+
+  The notebook file associated with this exercise can be found here **==>>** [VehiclePurchasePrice.ipynb](VehiclePurchasePrice.ipynb)
 
 ## Data Description
 The data used for this exercise consists of used-vehicle transactions in the United States. This exercise is to review the provided transactions to determine which vehicles will command a higher price and, therefore, assist used car dealers in selecting inventory with the best prices on the market.
@@ -44,9 +46,16 @@ The original dataset contained information on 3 million used cars. The provided 
    * Number of Cylinders
    * Odometer Value
    * Fuel type
- The remaining attributes were found to not have a significant effect on the sale price of the vehicle.
-* t
-
+ The remaining attributes were found not to have a significant effect on the vehicle's sale price.
+ 
+## Dealer Recommendations
+* When deciding on vehicle inventory to maximize sale price, the following characteristics should be taken into account:
+  * Age: Vehicles less than six years of age
+  * Vehicle Models: Trucks and utility vehicles, primarily Ford F-150 and Chevy Silverado models, are the best sellers.
+  * Number of Cylinders: Within the most popular models, six or more cylinders are preferred by buyers.
+  * Odometer Value: Higher Odometer values within the popular models remain best sellers. Higher Odometer Values are not deterrents to sale.
+  * Fuel Type: Gas engines remain in high demand over hybrids, diesel, and electric vehicles.
+ Reliability and utility, as shown in the most popular models are the major factors in the sale os a used vehicle.
 
 ## Opportunities
 
