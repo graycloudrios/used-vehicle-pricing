@@ -37,7 +37,15 @@ The original dataset contained information on 3 million used cars. The provided 
    *  Polynomial Feature Ridge Regression
    *  Lasso Regression with Polynomial Features
    *  Linear Regression with Sequential Feature Selection
-* test
+* Linear Polynomial Feature Regression proved to be the best model, having the best MSE and R2 values.
+* By using the above model, the key attributes were identified. The most influential attributes are (in order of importance):
+   * Age of the vehicle
+   * Vehicle model
+   * Number of Cylinders
+   * Odometer Value
+   * Fuel type
+ The remaining attributes were found to not have a significant effect on the sale price of the vehicle.
+* t
 
 
 ## Opportunities
@@ -45,5 +53,5 @@ The original dataset contained information on 3 million used cars. The provided 
 * Although the data gathered is intended for a population of drivers, it is vital to take into account pedestrian opportunities.
 * Pedestrian traffic on the weekends is likely to provide greater coupon acceptance when people are looking for a place to go.
 * Restricting to only drivers is limiting the audience artificially.
-* There is no data in the observations regarding the day of the week. As can be seen from the data, those who are not in a hurry are more likely to accept the coupon. Identifying the day of the week will confirm the assumption that a lack of urgency creates an opportunity for coupon acceptance.
+* There is no data in the observations regarding the day of the week. As the data show, those who are not in a hurry are more likely to accept the coupon. Identifying the day of the week will confirm the assumption that a lack of urgency creates an opportunity for coupon acceptance.
 
