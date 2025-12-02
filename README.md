@@ -46,21 +46,20 @@ The original dataset contained information on 3 million used cars. The provided 
    * Number of Cylinders
    * Odometer Value
    * Fuel type
- The remaining attributes were found not to have a significant effect on the vehicle's sale price.
+ * The remaining attributes were found not to have a significant effect on the vehicle's sale price.
  
 ## Dealer Recommendations
 * When deciding on vehicle inventory to maximize sale price, the following characteristics should be taken into account:
   * Age: Vehicles less than six years of age
   * Vehicle Models: Trucks and utility vehicles, primarily Ford F-150 and Chevy Silverado models, are the best sellers.
   * Number of Cylinders: Within the most popular models, six or more cylinders are preferred by buyers.
-  * Odometer Value: Higher Odometer values within the popular models remain best sellers. Higher Odometer Values are not deterrents to sale.
+  * Odometer Value: Higher Odometer values within the popular models remain best sellers. Higher Odometer values are not deterrents to sale.
   * Fuel Type: Gas engines remain in high demand over hybrids, diesel, and electric vehicles.
- Reliability and utility, as shown in the most popular models are the major factors in the sale os a used vehicle.
+ * Reliability and utility, as shown in the most popular models, are the significant factors in the sale os a used vehicle.
+ * Electric vehicles continue to improve and may provide greater reliability in the near future. Continued monitoring of market forces is necessary.
 
 ## Opportunities
 
-* Although the data gathered is intended for a population of drivers, it is vital to take into account pedestrian opportunities.
-* Pedestrian traffic on the weekends is likely to provide greater coupon acceptance when people are looking for a place to go.
-* Restricting to only drivers is limiting the audience artificially.
-* There is no data in the observations regarding the day of the week. As the data show, those who are not in a hurry are more likely to accept the coupon. Identifying the day of the week will confirm the assumption that a lack of urgency creates an opportunity for coupon acceptance.
+* The significant opportunity is better data gathering techniques. The data suffers from missing values and incorrect entries. This will affect the predictions.
+* Gathering data regarding the customers involved in the sale may provide a better prediction of vehicle preferences and understanding of the market.
 
