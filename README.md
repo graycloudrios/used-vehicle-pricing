@@ -30,7 +30,9 @@ The original dataset contained information on 3 million used cars. The provided 
 
 ## General Findings
 
-* 
+* The data set contains a large number of missing attributes and what appear to be errors in the data (i.e., three cylinder trucks). This required a thorough scrubbing of the data set. The scrubbing resulted in a significantly reduced data set, which may detrimentally affect the analysis.
+* The following models were used to analyse the data:
+*  Simple Linear Regression
 
 
 ## Opportunities
